@@ -302,10 +302,19 @@ h1 {
 }
 
 .left-bottom p {
-  margin-left: 300px;
+  /* margin-left: 300px; */
+  float: right;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-around;
+  align-items: flex-end;
+  color: white;
+  border: 2px solid #3A3A3B;
+  position: relative;
+  top: -90px;
+  margin-right: 50px;
+  border-radius: 30%;
+  font-size: 2opx;
+  padding: 8px;
 
 }
 
