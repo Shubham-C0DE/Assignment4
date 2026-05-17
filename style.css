@@ -92,7 +92,7 @@ main {
 }
 
 .bottom-center2 {
-  background-color: mediumpurple;
+  background-color: #FEF2F2;
   grid-area: bottom-center2;
   border: 2px solid white;
   display: flex;
@@ -299,6 +299,14 @@ h1 {
 
 .left-bottom span {
   color: #F8C8CD;
+}
+
+.left-bottom p {
+  margin-left: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 
 .image-box {
